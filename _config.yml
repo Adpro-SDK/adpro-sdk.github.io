@@ -11,7 +11,7 @@ description: > # this means to ignore newlines until "baseurl:"
   广告家 (pro.cn) 出品。© 2015
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
-github_username:  Adpro-SDK
+github_username: Adpro-SDK
 
 # Build settings
 markdown: kramdown
