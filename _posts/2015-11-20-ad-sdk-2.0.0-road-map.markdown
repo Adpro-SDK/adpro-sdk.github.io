@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "广告 SDK 2.0.0 版本 RoadMap"
+title:  "广告 SDK 2.0.0 版本规划"
 date:   2015-11-20 14:27:54 +0800
 categories: SDK RoadMap
 comments: true
