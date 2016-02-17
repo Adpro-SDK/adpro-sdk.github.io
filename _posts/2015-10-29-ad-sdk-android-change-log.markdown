@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "广告 SDK 更新日志 (Android)"
-date:   2015-10-29 12:00:00 +0800
+date:   2016-2-18 12:00:00 +0800
 categories: SDK ChangeLog
 ---
 
 ## V2.0.0
 
-2015年2月18日
+2016年2月18日
 
 - 修改
   - 去掉通知栏广告
