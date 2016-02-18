@@ -5,16 +5,16 @@ date:   2016-02-18 12:00:00 +0800
 categories: SDK ChangeLog
 ---
 
-## V2.0.0
+## V2.0.0 (建议使⽤)
 
 2016年02月18日
 
 - 修改
   - 去掉通知栏广告
-  - 将WebView广告全部改为Native广告
-  - 修改SDK使用Api
+  - 将 WebView 广告全部改为 Native 广告
+  - 修改 SDK 使用 Api
 
-## V1.2.2 ~~（建议使⽤）~~
+## V1.2.2
 
 - 修改
     - 优化内存
