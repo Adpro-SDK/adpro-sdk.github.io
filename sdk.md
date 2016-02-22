@@ -15,7 +15,7 @@ comments: true
 - [更新日志]({% post_url /2016-02-18-ad-sdk-ios-change-log %})
 
 ### Android
-- [Adpro Android SDK及文档(zip)](http://7xo1pn.dl1.z0.glb.clouddn.com/AdSDK-Android-V2.0.0.zip)
+- [Adpro Android SDK及文档(zip)](http://7xo1pn.dl1.z0.glb.clouddn.com/AdProSDK-Android-V2.0.0.zip)
 - 版本：2.0.0
 - 大小：684K
 - 更新日期：2016-02-18
